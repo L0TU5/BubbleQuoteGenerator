@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>DC's Friend's Quote Generator</title>
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+
+<body onload="introLoad()">
+  <!-- loads first quote, by me! -->
+  
+  <div class="bubbles"></div>
+  
+  <div class="quoteCont">
+    <!-- quote container -->
+    <button class="button" id="moar-quotes" title="You're a glutton for quotes!">GET MOAR QUOTES!</button>
+    <!-- pulls up random quote from JSON file -->
+    <a class="button" id="tweet-this" onclick="tweetThis()" title="Tweet this quote!"><i class="fab fa-twitter"></i></a>
+    <!-- twitter sharing button -->
+    <div id="quote-box" class="quote quoteText">
+      <!-- quote goes here -->
+    </div>
+    <div id="author-box" class="quotedBy">
+    <!-- author goes  here -->
+    </div>
+    <div id="contributor-box" class="contributedBy">
+      <!-- contributor goes here -->
+    </div>
+  </div>
+  <!-- I maked dis -->
+  <div class="icon-bar">
+    <a href="https://codepen.io/L0TU5/full/YaoYeg/" target="_blank" title="Danielle C. Monroe © 2018"><i class="far fa-copyright"></i></a>
+    <a href="https://www.freecodecamp.org/l0tu5" title="DC's FCC" target="_blank"><i class="fab fa-free-code-camp"></i></a>
+    <a href="https://codepen.io/L0TU5/" title="DC's CodePen" target="_blank"><i class="fab fa-codepen"></i></a>
+    <a href="https://github.com/L0TU5" title="DC's GitHub" target="_blank"><i class="fab fa-github-alt"></i></a>
+    <a href="www.linkedin.com/in/danielle-monroe" title="DC's LinkedIn" target="_blank"><i class ="fab fa-linkedin"></i></a>
+  </div>
+</body>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

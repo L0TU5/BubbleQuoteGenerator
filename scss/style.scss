@@ -1,0 +1,178 @@
+  /* -- GOOG-API fonts, so purdy and supported on mobile -- */
+@import url(https://fonts.googleapis.com/css?family=Nothing+You+Could+Do);
+@import url(https://fonts.googleapis.com/css?family=Reenie+Beanie);
+
+html {
+  height: 100%;
+}
+body {
+  /* -- sexeh body -- */
+  padding: 0;
+  margin: 0;
+  background: rgb(105, 155, 200);
+  background: -moz-radial-gradient(
+    top left,
+    ellipse cover,
+    rgba(105, 155, 200, 1) 0%,
+    rgba(181, 197, 216, 1) 57%
+  );
+  background: -webkit-gradient(
+    radial,
+    top left,
+    0px,
+    top left,
+    100%,
+    color-stop(0%, rgba(105, 155, 200, 1)),
+    color-stop(57%, rgba(181, 197, 216, 1))
+  );
+  background: -webkit-radial-gradient(
+    top left,
+    ellipse cover,
+    rgba(105, 155, 200, 1) 0%,
+    rgba(181, 197, 216, 1) 57%
+  );
+  background: -o-radial-gradient(
+    top left,
+    ellipse cover,
+    rgba(105, 155, 200, 1) 0%,
+    rgba(181, 197, 216, 1) 57%
+  );
+  background: -ms-radial-gradient(
+    top left,
+    ellipse cover,
+    rgba(105, 155, 200, 1) 0%,
+    rgba(181, 197, 216, 1) 57%
+  );
+  background: radial-gradient(
+    ellipse at top left,
+    rgba(105, 155, 200, 1) 0%,
+    rgba(181, 197, 216, 1) 57%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(
+      startColorstr="#699bc8",
+      endColorstr="#b5c5d8",
+      GradientType=1
+    );
+  background-attachment: fixed;
+  font-family: "Nothing You Could Do", serif;
+  color: #1d2c36;
+  overflow: hidden;
+}
+.quoteCont {
+  /* -- where the quotes and such hang out -- */
+  margin: 5vh auto;
+  width: 90%;
+  padding: 1vh;
+}
+.quote {
+  /* -- quote text, a formatting -- */
+  font-size: 5vh;
+  width: 60vw;
+  text-align: center;
+  padding-top: 10vh;
+  margin: auto;
+}
+.quotedBy {
+  /* -- author text, a formatting -- */
+  text-align: center; 
+  font-size: 6vh;
+  font-weight: 900;
+  margin-top: 4vh;
+  margin-left: 40vw;
+}
+.button {
+  /* -- mah buttons, a formatting -- */
+  border: none;
+  float: right;
+  margin-left: 2vh;
+  font-family: "Reenie Beanie", sans-serif;
+  border-radius: 3px;
+  color: #b5c5d8;
+  opacity: 0.5;
+  padding-top: .5vh;
+  background-color: #699bc8;
+  opacity: 0.5;
+  outline: none;
+  font-size: 4vh;
+  font-weight: 600;
+  cursor: pointer;
+}
+.button:hover {
+  /* -- mah buttons, when hovering on them-- */
+  color: #fff;
+  opacity: 0.7;
+}
+.button:active {
+  /* -- mah buttons, when clicked -- */
+  background-color: #fff;
+  opacity: 0.2;
+}
+button:focus {
+    /* -- NO BLUE OUTLINES, KTHNX -- */
+  outline: 0;
+}
+    /* -- give the birdy some room -- */
+#tweet-this {
+  padding-left: 1vh;
+  padding-right: 1vh;
+}
+.contributedBy {
+  /* -- contributor frands, text formatting -- */
+  font-size: 3.5vh;
+  text-align: center;
+  font-family: "Reenie Beanie", sans-serif;
+}
+/* -- I maked dis, a formatting -- */
+.icon-bar {
+  position: fixed;
+  bottom: 2%;
+}
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding-left: 1vh;
+  padding-bottom: 0.5vh;
+  transition: all 0.3s ease;
+  color: #699bc8;
+  opacity: 0.6;
+  font-size: 4vh;
+}
+.icon-bar a:hover {
+  color: #fff;
+  opacity: 1;
+}
+//ANIMATIONS 
+.bubbles {
+  width: 100vw;
+}
+.bubble{
+  width: 50px;
+  height: 60px;
+  z-index: 3000;
+}
+@keyframes move{
+  0%{ transform: translateY(0px); }
+  100%{ transform: translateY(-1000px); }
+}
+$b_ease: cubic-bezier(0.470,0.000,0.745,0.715);
+@for $i from 0 through 50 {
+		$time: $i*0.1;
+		$scale: $i*0.15;
+		.stretch#{$i} {
+			animation: stretch ($time+2)+s ease 0s infinite normal;
+			-webkit-animation: stretch ($time+2)+s ease 0s infinite normal;
+		}
+		.move#{$i}  {
+			animation: move ($time+5)+s $b_ease $time+s infinite normal;
+			-webkit-animation: move ($time+5)+s $b_ease $time+s infinite normal;
+      position: absolute;
+      bottom: -20%;
+		}
+		.pos#{$i}  {
+			left: percentage($i*11/100);
+		}
+		.scale#{$i}  {
+			transform: scale($scale);
+			-webkit-transform: scale($scale);
+		}
+	}

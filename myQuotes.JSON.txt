@@ -1,0 +1,406 @@
+URL: https://api.myjson.com/bins/tf4rl
+
+/* --- JSON info below --- */
+
+[
+{
+"quote": "Never ascribe to malice that which is adequately explained by incompetence.",
+"author":   "- Napoleon Bonaparte",
+"contributor":   "David Burke" 
+},
+{ 
+"quote": "Speed doesn't matter, forward is forward.",
+"author":  "Unknown", 
+"contributor":  "Nathan Martin" 
+},
+{ 
+"quote": "90 percent of success is just showing up.",
+"author": "Unknown",
+"contributor":  "Mike Turian" 
+},
+{ 
+"quote":  "You could save 15 percent or more on your car insurance!",
+"author":  "- Geico Gecko", 
+"contributor":  "Adam Fenerty" 
+},
+{ 
+"quote": "Jiggle the handle.",
+"author":  "Unknown", 
+"contributor":  "Joe Louie"
+},
+{ 
+"quote": "Don't Argue, get organized.",
+"author":  "Unknown", 
+"contributor":  "Brandon Connell Scott" 
+},
+{ 
+"quote":  "Do not pray for an easy life. Pray for the strength to endure a hard one.",
+"author":  "- Bruce Lee",
+"contributor":  "Michael Frost" 
+},
+{
+"quote": "Come play with us! I want to get you stoned and feed you pancakes.",
+"author": "Unknown",
+"contributor": "Melissa Anderson"
+},
+{ 
+"quote": "Knowing others is intelligence, knowing yourself is true wisdom. Mastering others is strength, mastering yourself is true power.",
+"author": "- Tao te Ching",
+"contributor":"William Myers" 
+},
+{ 
+"quote": "Not all who wonder are lost.",
+"author": "- JRR Tolkien",
+"contributor": "Sarah Altenburg"
+},
+{ 
+"quote": "Some motherfuckers are always trying to ice skate up hill.",
+"author": "Unknown",
+"contributor": "Isaac Harrus"
+},
+{ 
+"quote": "Good, bad, I'm the guy with the gun.",
+"author": "Unknown",
+"contributor": "Chris Gates" 
+},
+{ 
+"quote": "All women eventually become their own mothers, it is their greatest tragedy. No man ever does, and that is his.",
+"author": "- Oscar Wilde",
+"contributor": "Nicholas Eddy"
+},
+{ 
+"quote": "I said, biiitch...",
+"author": "- Key & Peele",
+"contributor": "Julia Mates"
+},
+{ 
+"quote": "Winning is not final, and failure is not fatal, it's the will to continue on that matters most.",
+"author": "Unknown",
+"contributor": "Gregory A. Loverage"
+},
+{ 
+"quote": "Oh God, I could be bounded a nutshell and count myself a king of infinite space, were it not that I have bad dreams.",
+"author": "- Hamlet",
+"contributor": "Nick Fury"
+},
+{ 
+"quote": "Better to close your mouth and be thought a fool than open it and remove all doubt.",
+"author": "Unknown",
+"contributor": "Seth Bird" 
+},
+{ 
+"quote": "He who laughs last, laughs best.",
+"author": "Unknown",
+"contributor": "Evan Rawson" 
+},
+{ 
+"quote": "Scars show us where we've been, they do not dictate where we are going.",
+"author": "Unknown",
+"contributor": "Carrie Ancel Carrillo" 
+},
+{ 
+"quote": "I'm here to kick ass and chew bubblegum, and I'm all out of bubblegum.",
+"author": "Unknown",
+"contributor": "Natalya Haner" 
+},
+{ 
+"quote": "Sodding Nugg humper!",
+"author": "Unknown",
+"contributor": "Katie Marvin" 
+},
+{ 
+"quote": "Ice makes for stillness not weakness. I’ll rise and I’ll dance like the spring, dauntless creator of canyons- look to the water for change.",
+"author": "- SJ Tucker",
+"contributor": "Becca Deam"
+},
+{ 
+"quote": "Captain Logic is not steering this tugboat.",
+"author": "Unknown",
+"contributor": "Ariadne Santa Maria"
+},
+{ 
+"quote": "Often you don’t know whether a woman is friend, enemy or lover until it is too late. Sometimes, she is all three.",
+"author": "Unknown",
+"contributor": "Jono Hanks"
+},
+{ 
+"quote": "We are what we repeatedly do. Excellence then is not an act, but a habit.",
+"author": "- Aristotle",
+"contributor": "Dexter Deam"
+},
+{ 
+"quote": "A society grows great when old men plant trees whose shade they know they shall never sit in.",
+"author":"- Greek Proverb",
+"contributor": "Jessica Lacey"
+},
+{ 
+"quote": "You miss 100% of the shots you never take.",
+"author": "- Wayne Dretzky",
+"contributor": "Matt Wagner"
+},
+{ 
+"quote": "If you wish to make an apple pie from scratch, you must first invite the universe.",
+"author": "- Carl Sagan",
+"contributor": "Rick Raddue"
+},
+{ 
+"quote": "You know, I used to think it was awful that life was so unfair. Then I thought, wouldn't it be much worse if life were fair, and all the terrible things that happen to us come because we actually deserve them? So, now I take great comfort in the general hostility and unfairness of the universe.",
+"author": "- Marcus Cole",
+"contributor": "Austin Buelt"
+},
+{ 
+"quote": "Suicide is a very comforting thought, with it, one can get through many a tough time.",
+"author": "Unknown",
+"contributor": "Felisity Svet" 
+},
+{ 
+"quote": "It is what it is.",
+"author": "Unknown",
+"contributor": "Cymric Moon" 
+},
+{ 
+"quote": "You don't have a soul. You are a soul. You have a body.",
+"author": "Unknown",
+"contributor": "Lorilynn Parker" 
+},
+{ 
+"quote": "If you don't toot your own horn, someone else will piss in it.",
+"author": "Unknown",
+"contributor": "Sharon Gunn Bruhn"
+},
+{ 
+"quote": "Fear makes the wolf look bigger.",
+"author": "Unknown",
+"contributor": "Jordan Fleming" 
+},
+{ 
+"quote": "A lesson learned in blood is not as easily forgotten.",
+"author": "- Dexter Deam",
+"contributor": "Kevin Morano"
+},
+{ 
+"quote": "Nah. It ain't white boy day.",
+"author": "Unknown",
+"contributor": "Daniel Helmick" 
+},
+{ 
+"quote": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+"author": "- Aristotle",
+"contributor": "Derek Gabreski"
+},
+{ 
+"quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+"author": "- Maya Angelou",
+"contributor": "Mario Medina"
+},
+{ 
+"quote": "I have not failed. I've just found 10,000 ways that won't work.",
+"author": "- Thomas A. Edison",
+"contributor": "Josua Sarrett"
+},
+{ 
+"quote": "We are all in the gutter, but some of us are looking at the stars.",
+"author": "- Oscar Wilde",
+"contributor": "Jim Sullivan"
+},
+{ 
+"quote": "Die living.",
+"author": "- Warren Miller",
+"contributor": "Ron Nelson"
+},
+{ 
+"quote": "The world is against me, it wouldn't be fair otherwise.",
+"author": "Unknown",
+"contributor": "Michael Osgood-Garver"
+},
+{ 
+"quote": "Let the Galaxy burn.",
+"author": "Unknown",
+"contributor": "Sam Awry" 
+},
+{ 
+"quote":"I’m a reasonable guy. But, I’ve just experienced some very unreasonable things.",
+"author": "- Jack Burton",
+"contributor": "Sól Blair"
+},
+{ 
+"quote": "The optimist thinks this is the best of all possible worlds. The pessimist fears it is true.",
+"author": "- Robert Oppenheimer",
+"contributor": "Christopher Celaya"
+},
+{ 
+"quote": "All that we see and seem is but a dream within a dream.",
+"author": "- Edgar Allen Poe",
+"contributor": "Roxy Anne Starler"
+},
+{ 
+"quote": "Do your really want to explain that to 12 people too stupid to get out of jury duty.",
+"author": "Unknown",
+"contributor": "Michael Cain" 
+},
+{ 
+"quote":  "The flesh is weak.",
+"author": "Unknown",
+"contributor": "Brad Lewis" 
+},
+{ 
+"quote": "Sleep is for the weak.",
+"author": "Unknown",
+"contributor": "Frank Coyne" 
+},
+{ 
+"quote": "He's so confused he doesn't know whether to scratch his watch or wind his butt.",
+"author": "Unknown",
+"contributor": "Laura Kilgore" 
+},
+{ 
+"quote": "I'm too drunk, to taste this chicken.",
+"author": "Unknown",
+"contributor": "Aaron Edens" 
+},
+ { 
+"quote": "Realize you can be happy this moment for no reason. Otherwise, you eternally depend on conditions for happiness. Unconscious of this moment, you remain a victim of circumstances.",
+"author": "- Arthur D. Saftlas",
+"contributor": "Zac Smith"
+},
+ { 
+"quote": "It's time to drop the hammer and dispense some indiscriminate justice.",
+"author": "Unknown",
+"contributor": "Robert Fesler"
+},
+ { 
+"quote": "As it happens, there are particular aspects of my life to which I would like to maintain sole and exclusive rights and privileges.",
+"author": "- Margo Channing",
+"contributor": "Kristine Hassell"
+},
+ { 
+"quote": "Every normal man must be tempted at times to spit on his hands, hoist the black flag, and begin to slit throats.",
+"author": "- HL Mencken",
+"contributor": "Sam David Gladish"
+},
+ { 
+"quote": "Better to reign in Hell, then serve in Heav'n.",
+"author": "- John Milton",
+"contributor": "Paul Guillory"
+},
+ { 
+"quote": "Were you born that stupid or did you have to work at it?",
+"author": "Unknown",
+"contributor": "Darrell 'Badger' Mays"
+},
+ { 
+"quote": "Life’s tough, fight back.",
+"author": "Unknown",
+"contributor": "Hiro Yoshida"
+},
+ { 
+"quote": "America isn't easy. America is advanced citizenship. You've gotta want it bad, 'cause it's gonna put up a fight. It's gonna say, 'You want free speech? Let's see you acknowledge a man whose words make your blood boil, who's standing center stage and advocating at the top of his lungs that which you would spend a lifetime opposing at the top of yours.' You want to claim this land as the land of the free? Then the symbol of your country cannot just be a flag. The symbol also has to be one of its citizens exercising his right to burn that flag in protest.",
+"author": "- The American President",
+"contributor": "JP Pariury II"
+},
+ { 
+"quote": "I came, I saw, I conquered.",
+"author": "- Ceasar",
+"contributor": "Shannon Nielson"
+},
+ { 
+"quote": "Be proactive, not reactive.",
+"author": "Unknown",
+"contributor": "Shannon Doyle"
+},
+ { 
+"quote": "I ain`t got time to bleed.",
+"author": "Unknown",
+"contributor": "Dennis Darnell"
+},
+ { 
+"quote": "We Cyclops never blink at Zeus and Zeus's shield of storm and thunder, or any other blessed god — MO we've got more force by far. I'd never spare you in fear of Zeus's hatred, you or your comrades here, unless I had the urge.",
+"author": "- Homer",
+"contributor": "David Contini"
+},
+ { 
+"quote": "Things of quality have no fear of time.",
+"author": "Unknown",
+"contributor": "DeQuan Watson"
+},
+ { 
+"quote": "The only dependable thing about the future is uncertainty.",
+"author": "Unknown",
+"contributor": "Rollin Frank"
+},
+ { 
+"quote": "Just be yourself, everyone else is already taken.",
+"author": "- Oscar Wilde",
+"contributor": "Damian Boeck"
+},
+ { 
+"quote": "There is a fine line between not listening and not caring. I like to think I walk that line every day of my life.",
+"author": "- Dr. Leonard Church",
+"contributor": "Megan Ruygt"
+},
+ { 
+"quote": "And now that you don’t have to be perfect, you can be good.",
+"author": "- John Steinbeck",
+"contributor": "Sara Levy"
+},
+ { 
+"quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+"author": "- Henry David Thoreau",
+"contributor": "Chantell Wagner"
+},
+ { 
+"quote": "You were not put on this Earth to 'get it,' Mr. Burton.",
+"author": "- David Lopan",
+"contributor": "Brian Hudson"
+},
+ { 
+"quote": "Don't Panic",
+"author": "Unknown",
+"contributor": "Samantha Fullen"
+},
+ { 
+"quote": "Let the Wookie win.",
+"author": "- Han Solo",
+"contributor": "Jay Barber Jr."
+},
+ { 
+"quote": "Heroes have an infinite capacity for stupidity, thus legends are born.",
+"author": "- Doctor Doom",
+"contributor": "William W. Bush III"
+},
+ { 
+"quote": "ambition is the key to success; persistence is the vehicle you arrive in.",
+"author": "- Bill Bradley",
+"contributor": "William Gamez"
+},
+ { 
+"quote": "Time does not die, only people.",
+"author": "Unknown",
+"contributor": "Jeremy Romig"
+},
+ { 
+"quote": "You don’t get old being a fool.",
+"author": "- Richard Pryor",
+"contributor": "Henry Baskerville"
+},
+ { 
+"quote": "No such thing as a life that’s better than yours.",
+"author": "Unknown",
+"contributor": "Nelson Brown"
+},
+ { 
+"quote": "Building a quote generator as a portfolio project. What's your favorite quote?",
+"author": "- Danielle Monroe",
+"contributor": "Chuck Arnett"
+},
+ { 
+"quote": "When you're in college, coding seems like it's going to be this elegant fencing match. Then you get out into the industry and you realize it's more like a drunken knife fight.",
+"author": "- Anthony Phelps",
+"contributor": "Nathan Reed"
+},
+ { 
+"quote": "You can lead a horse to water but it takes forever to drown one.",
+"author": "- Robert J. Schuster",
+"contributor": "Robert J. Schuster"
+}
+]
